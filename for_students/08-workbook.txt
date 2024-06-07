@@ -1,0 +1,36 @@
+Wisc ID: nboddy
+GitHub ID: Nick-Boddy
+Points = 90
+Grade = 4.5 out of 5
+
+[X] correct WB8 Canvas Assignment submission [none]: 
+[X] correct WB8G Canvas Assignment submission on time [none]: Didn't fully finish but showed progress. Unsure if that counts for full points or not.
+[X] triangles correctly oriented (no holes in grid) [08-01-03]: 
+[X] Object 1 has (at least) 3 triangles [08-02-01]: Triangular Bipyramid (center)
+[X] Object 1 has colored triangles (with different colors) [08-02-01]: 
+[X] Object 2 has (at least) 3 triangles [08-02-01]: Tetrahedron (left)
+[X] Object 2 has vertex colors where we can see blending [08-02-01]: 
+[X] Object 3 has (at least) 3 triangles [08-02-01]: Triangular Bipyramid (right)
+[X] Object 3 has normals that make things look smooth [08-02-01]: 
+[X] Code Check: objects build “manually” [08-02-01]: 
+[X] There are 2 dice [08-05-01]: 
+[X] Dice have numbers on their sides [08-05-01]: 
+[X] Dice have correct numbers on their sides [08-05-01]: 
+[X] The two dice show different numbers on top [08-05-01]: 
+[X] At least one domino [08-05-02]: 
+[X] The domino is a double 6 (correct texture) [08-05-02]: 
+[X] Building Type 1 [08-06-01]: I made all my buildings using BufferGeometrys. I found a roof texture online and stitched it into the preexisting house texture. Two of the buildings have pyramid roofs, and the third has a gable roof.
+[X] Building 1 has texture [08-06-01]: 
+[X] Building Type 2 [08-06-01]: 
+[X] Building 2 has texture [08-06-01]: 
+[X] Has different roof type than 1 [08-06-01]: 
+[X] Tree or plant [08-06-01]: 
+[X] Car or Vehicle (looks like a car or other vehicle) [08-07-01]: I made two vehicles, a sedan and a mail truck. Both are made using a composition of primitive shapes for the wheels and buffer geometries for the cabin and windshields. Basic coloring is used except for a simple windshield texture that I made.  
+[X] Has texture (or at least coloring) [08-07-01]: 
+[ ] Rounded edges (Dice) [08-05-01]: 
+[ ] Rounded edges (Domino) [08-05-02]: 
+[X] More dominos (with different numbers) [08-05-02]: 
+[ ] Legal domino arrangement (at least 4 dominos) [08-05-02]: 
+[ ] Building Type 3 - substantially different and described in text [08-06-01]: 
+[ ] Building Type 3 - different roof type than others [08-06-01]: 
+[X] more than 1 vehicle type [08-07-01]: sedan and a mail truck
